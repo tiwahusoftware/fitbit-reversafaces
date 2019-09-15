@@ -1,0 +1,53 @@
+.background {
+  viewport-fill: #000000;
+}
+
+#localHours {
+  font-size: 72;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 20%;
+  y: 10%+40;
+  fill: #ffffff;
+}
+
+#localMinutes {
+  font-size: 56;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%+40;
+  fill: #a0a0a0;
+}
+
+#localSeconds {
+  font-size: 48;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 80%;
+  y: 10%+40;
+  fill: #606060;
+}
+
+#localLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%+40;
+  fill: #ffffff;
+}
+
+#utcLabel {
+  font-size: 28;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 100%-14;
+  fill: #ffffff;
+}

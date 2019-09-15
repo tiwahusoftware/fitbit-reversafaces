@@ -1,0 +1,8 @@
+<svg class="background">
+  <image href="logo.png" load="sync"  />
+  <text id="localLabel" />
+  <text id="localSeconds" />
+  <text id="localMinutes" />
+  <text id="localHours" />
+  <text id="utcLabel" />
+</svg>

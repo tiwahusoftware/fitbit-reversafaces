@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "4817a851-6df4-41a0-a87e-91442278417f",
+    "appType": "clockface",
+    "appDisplayName": "Tiwahu-Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tiwahu-Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
